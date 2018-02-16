@@ -3,20 +3,20 @@ OSX Automator workflow to create New project structure.
 
 # Folder structure
 
-1. Client name
-	2. _Fonts
-	3. YYYY-MM-DD_Project_Name
-		4. 01 - Assets
-			5. documents
-			6. images
-			7. references
-				8. pictures
-				8. urls
-		5. 02 - Production
-		6. 03 - Deliverables
-	4. Admin
-		5. Accounting
-		6. Deliverables
+Client name
+	1. _Fonts
+	2. YYYY-MM-DD_Project_Name
+		1. 01 - Assets
+			1. documents
+			2. images
+			3. references
+				1. pictures
+				2. urls
+		2. 02 - Production
+		3. 03 - Deliverables
+	3. Admin
+		1. Accounting
+		2. Deliverables
 
 # Installation
 Double click “New project.workflow” and run it.
