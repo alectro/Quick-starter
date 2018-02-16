@@ -21,9 +21,12 @@ OSX Automator workflow to create New project structure.
 	2. Deliverables
 
 # Installation
-Double click “New project.workflow” and run it.
+1. [Download "Quick starter"](https://github.com/alectro/Quick-starter/archive/master.zip) the latest version.
+2. Uncompress the file.
+3. Run the workflow.
 
 # Author
-Alejandro Urrutia [hola@colorale.com](mailto:hola@colorale.com)
+Alejandro Urrutia [alectro@gmail.com](mailto:alectro@gmail.com)
+Twitter: [alectro](https://twitter.com/alectro)
 
-Based on Marjiusz Ostrowski idea: [https://github.com/mariuszostrowski/foldersstructure](https://github.com/mariuszostrowski/foldersstructure)
+Based on Marjiusz Ostrowski (@mariuszostrowski) fodler structure: [https://github.com/mariuszostrowski/foldersstructure](https://github.com/mariuszostrowski/foldersstructure)
