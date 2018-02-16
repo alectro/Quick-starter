@@ -5,35 +5,20 @@ OSX Automator workflow to create New project structure.
 
 Client name
 
-
 	1. _Fonts
-	
-	
 	2. YYYY-MM-DD_Project_Name
-	
 		1. 01 - Assets
-		
 			1. documents
-			
 			2. images
-			
 			3. references
-			
 				1. pictures
-				
 				2. urls
 				
 		2. 02 - Production
-		
 		3. 03 - Deliverables
-		
-		
 	3. Admin
-	
 		1. Accounting
-		
 		2. Deliverables
-		
 
 # Installation
 Double click “New project.workflow” and run it.
