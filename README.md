@@ -1,5 +1,5 @@
 # Description
-OSX Automator workflow to create New project structure.
+OSX Automator workflow to quickly create new project's folder structure.
 
 # Folder structure
 
