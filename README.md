@@ -3,8 +3,7 @@ OSX Automator workflow to create New project structure.
 
 # Folder structure
 
-Client name
-
+**Client name**
 	1. _Fonts
 	2. YYYY-MM-DD_Project_Name
 		1. 01 - Assets
